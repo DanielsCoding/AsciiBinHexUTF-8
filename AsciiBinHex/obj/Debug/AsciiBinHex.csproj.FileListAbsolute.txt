@@ -1,0 +1,9 @@
+c:\users\sollnerd\documents\visual studio 2012\Projects\AsciiBinHex\AsciiBinHex\bin\Debug\AsciiBinHex.exe.config
+c:\users\sollnerd\documents\visual studio 2012\Projects\AsciiBinHex\AsciiBinHex\bin\Debug\AsciiBinHex.exe
+c:\users\sollnerd\documents\visual studio 2012\Projects\AsciiBinHex\AsciiBinHex\bin\Debug\AsciiBinHex.pdb
+c:\users\sollnerd\documents\visual studio 2012\Projects\AsciiBinHex\AsciiBinHex\obj\Debug\AsciiBinHex.csprojResolveAssemblyReference.cache
+c:\users\sollnerd\documents\visual studio 2012\Projects\AsciiBinHex\AsciiBinHex\obj\Debug\AsciiBinHex.Properties.Resources.resources
+c:\users\sollnerd\documents\visual studio 2012\Projects\AsciiBinHex\AsciiBinHex\obj\Debug\AsciiBinHex.csproj.GenerateResource.Cache
+c:\users\sollnerd\documents\visual studio 2012\Projects\AsciiBinHex\AsciiBinHex\obj\Debug\AsciiBinHex.exe
+c:\users\sollnerd\documents\visual studio 2012\Projects\AsciiBinHex\AsciiBinHex\obj\Debug\AsciiBinHex.pdb
+C:\Users\sollnerd\Documents\Visual Studio 2012\Projects\AsciiBinHex\AsciiBinHex\obj\Debug\AsciiBinHex.UmrechnerAsciiHExBin.resources

@@ -7,3 +7,6 @@ c:\users\sollnerd\documents\visual studio 2012\Projects\AsciiBinHex\AsciiBinHex\
 c:\users\sollnerd\documents\visual studio 2012\Projects\AsciiBinHex\AsciiBinHex\obj\Debug\AsciiBinHex.exe
 c:\users\sollnerd\documents\visual studio 2012\Projects\AsciiBinHex\AsciiBinHex\obj\Debug\AsciiBinHex.pdb
 C:\Users\sollnerd\Documents\Visual Studio 2012\Projects\AsciiBinHex\AsciiBinHex\obj\Debug\AsciiBinHex.UmrechnerAsciiHExBin.resources
+C:\Projekte\AsciiBinHexUTF-8\AsciiBinHex\bin\Debug\AsciiBinHex.exe.config
+C:\Projekte\AsciiBinHexUTF-8\AsciiBinHex\obj\Debug\AsciiBinHex.exe
+C:\Projekte\AsciiBinHexUTF-8\AsciiBinHex\obj\Debug\AsciiBinHex.pdb

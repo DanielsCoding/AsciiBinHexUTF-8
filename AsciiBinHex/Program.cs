@@ -14,6 +14,7 @@ namespace AsciiBinHex
         [STAThread]
         static void Main()
         {
+            //llalala
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new UmrechnerAsciiHExBin());
